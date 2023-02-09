@@ -1,6 +1,6 @@
 # sqlalchemy-challenge.
 
-I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with my trip planning. I decided to do a climate analysis about the area using Python and SQLAlchemy to do basic data exploration and analysis of an SQLite climate database. All analysis is done using SQLAlchemy (ORM queries), Pandas, and Matplotlib. It also provides an API (designed using Flask) for querying this climate data.
+I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii. To help with my trip planning, I decided to do a climate analysis about the area using Python and SQLAlchemy to do basic data exploration and analysis of an SQLite climate database. All analysis is done using SQLAlchemy (ORM queries), Pandas, and Matplotlib. It also provides an API (designed using Flask) for querying this climate data.
 
 Part I: Exploratory Climate Analysis
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
